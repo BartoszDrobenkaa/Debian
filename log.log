@@ -1,0 +1,8 @@
+commit e240190340cf3b5d0d0e550042c2b05ad9878dc6
+Author: root <root@debian.debian>
+Date:   Thu Nov 12 09:37:50 2020 +0100
+
+    test
+
+ tekst.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
